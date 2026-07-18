@@ -1,0 +1,8 @@
+{
+    "environment": {
+        "QT_API": "pyside6",
+        "^=PYTHONPATH": [
+            "${__BUNDLE__}/prebuilt/win64/py"
+        ]
+    }
+}

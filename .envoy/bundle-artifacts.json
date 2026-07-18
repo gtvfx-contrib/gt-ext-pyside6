@@ -1,0 +1,8 @@
+{
+  "artifacts": [
+    {
+      "source": "${ENVOY_STUDIO_ARTIFACTS}/ext/python/3.11.9",
+      "dest": "."
+    }
+  ]
+}
